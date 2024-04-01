@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include",
+                "/usr/local/include",
+                "/usr/src/linux/arch/x86/include",
+                "/usr/src/linux/arch/x86/include/generated",
+                "/usr/src/linux/include",
+                "/usr/src/linux/arch/x86/include/uapi",
+                "/usr/src/linux/arch/x86/include/generated/uapi",
+                "/usr/src/linux/include/uapi",
+                "/usr/src/linux/include/generated/uapi",
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
